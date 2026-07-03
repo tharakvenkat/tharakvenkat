@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Tharak Venkat
 
-<!--
-**tharakvenkat/tharakvenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Student at VIT-AP University  
+💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning Machine Learning and Deep Learning
+- 💻 Passionate about building real-world AI/ML applications
+- 📊 Strong interest in Data Structures and Algorithms
+- 🎯 Aspiring Software Engineer and AI/ML Engineer
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages**
+- Java
+- Python
+- JavaScript
+
+**Web Development**
+- HTML
+- CSS
+
+**AI & Machine Learning**
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Keras
+- Scikit-learn
+
+**Core Computer Science**
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+
+---
+
+## 📌 Projects
+
+- 🧠 Handwritten Digit Recognition using CNN
+- 🩺 Pneumonia Detection using Deep Learning
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/tharakvenkat
+- GitHub: https://github.com/tharakvenkat
+
+---
+
+⭐ **Always learning, building, and improving every day.**
