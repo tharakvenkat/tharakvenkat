@@ -72,15 +72,6 @@ Computer Science Undergraduate | Java Developer | AI & Machine Learning Enthusia
 
 ---
 
-### 🌐 Todo Web Application
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express
-
----
-
 ## 📚 Currently Learning
 
 - Deep Learning
